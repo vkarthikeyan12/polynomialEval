@@ -64,3 +64,6 @@ P(2) = 2 + 3(2) + 1(2^2) = 12
 - Use Horner’s method for efficient evaluation
 - Add polynomial differentiation
 - Support polynomial plotting
+
+## Screenshot
+![screenshot](screenshot.png)
